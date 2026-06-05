@@ -6,10 +6,9 @@
 
 **From Beginner to Advanced SQL Concepts**
 
-![SQL](https://img.shields.io/badge/SQL-Learning-blue)
-![Database](https://img.shields.io/badge/Database-Management-green)
-![GitHub](https://img.shields.io/badge/GitHub-README-orange)
-
+![SQL](https://www.youtube.com/watch?v=3mukGYjvixE/SQL-Learning-blue)
+![SQL Server Install](https://www.youtube.com/watch?v=XPnqEzZxa14/Database-Management-green)
+![GitHub](https://github.com/sameerkumarmeher/GitHub-README-orange)
 </div>
 
 ---
