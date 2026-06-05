@@ -1,17 +1,9 @@
 # 📚 SQL Notes: Basic to Advanced
 
-<div align="center">
-
 ### 🚀 Complete SQL Learning Guide
 
 **From Beginner to Advanced SQL Concepts**
 
-![SQL](https://www.youtube.com/watch?v=3mukGYjvixE/SQL-Learning-blue)
-![SQL Server Install](https://www.youtube.com/watch?v=XPnqEzZxa14/Database-Management-green)
-![GitHub](https://github.com/sameerkumarmeher/GitHub-README-orange)
-</div>
-
----
 
 ## 📑 Table of Contents
 
