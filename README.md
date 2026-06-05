@@ -1,9 +1,18 @@
 # 📚 SQL Notes: Basic to Advanced
 
+<div align="center">
+
 ### 🚀 Complete SQL Learning Guide
 
 **From Beginner to Advanced SQL Concepts**
 
+![SQL](https://img.shields.io/badge/SQL-Learning-blue)
+![Database](https://img.shields.io/badge/Database-Management-green)
+![GitHub](https://img.shields.io/badge/GitHub-README-orange)
+
+</div>
+
+---
 
 ## 📑 Table of Contents
 
